@@ -1,0 +1,40 @@
+body{
+  background-color: #22396a;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 25px;
+}
+
+.heading-lg{
+  font-size: 55px;
+}
+
+.heading-md{
+  font-size: 40px;
+}
+
+.heading-sm{
+  font-size: 30px;
+}
+
+.heading-green{
+  color: #4cb766;
+}
+
+.text{
+  font-size: 16px;
+}
+
+.social{
+  color: red;
+}
+
+header{
+  text-align: center;
+}
+
+footer{
+  background-color: #11244d;
+  text-align: center;
+  padding: 20px 0;
+}
